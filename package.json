@@ -1,0 +1,19 @@
+{
+  "name": "set",
+  "version": "0.0.1",
+  "author": "Noah Schwartz <noah.schwartz1@gmail.com>",
+  "dependencies":
+  {
+    "commander": "*",
+    "jshint": "*",
+    "lodash": "*",
+    "mathjs": "*",
+    "mocha": "*",
+    "node-bitarray": "*",
+    "unit.js": "*"
+  },
+  "scripts":
+  {
+    "test": "mocha test -t 30000"
+  }
+}

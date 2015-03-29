@@ -1,0 +1,5 @@
+[
+  { "color": "red", "symbol": "diamond", "shading": "open", "number": 3 },
+  { "color": "red", "symbol": "diamond", "shading": "spotted", "number": 4 },
+  { "color": "blue", "symbol": "square", "shading": "spotted", "number": 3 }
+]

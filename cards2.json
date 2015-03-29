@@ -1,0 +1,13 @@
+[
+  { "color": "red", "symbol": "diamond", "shading": "striped", "number": 1 },
+  { "color": "red", "symbol": "diamond", "shading": "solid", "number": 2 },
+  { "color": "red", "symbol": "diamond", "shading": "open", "number": 3 },
+  { "color": "red", "symbol": "diamond", "shading": "spotted", "number": 4 },
+  { "color": "red", "symbol": "diamond", "shading": "spotted", "number": 5 },
+
+  { "color": "blue", "symbol": "square", "shading": "striped", "number": 3 },
+  { "color": "red", "symbol": "diamond", "shading": "solid", "number": 3 },
+  { "color": "green", "symbol": "triangle", "shading": "open", "number": 3 },
+  { "color": "yellow", "symbol": "square", "shading": "solid", "number": 2 },
+  { "color": "purple", "symbol": "oval", "spotted": "solid", "number": 2 },
+]
