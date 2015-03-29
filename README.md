@@ -2,10 +2,10 @@
 Set solver
 
 ### install
-`./bin/install`
+`./bin/install.sh`
 
 ### run (will print usage instructions)
-`./bin/run`
+`./bin/run.sh`
 
 ### test
 `npm test`
